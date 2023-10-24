@@ -1,7 +1,6 @@
 # Movie-Shows
 Create a Movie/TV Show App implementing the MVVM Design Pattern
 
-![Simulator Screen Shot - iPhone 14 Pro - 2023-10-24 at 10 44 22](https://github.com/TapanKumar67/Movie-Shows/assets/148809898/04a6699e-eb5a-4b78-b52e-6c462a0df29d)
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-10-24 at 10 44 22](https://github.com/TapanKumar67/Movie-Shows/assets/148809898/4988df59-f632-4acd-8605-87ce090f902a)
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-10-24 at 10 45 19](https://github.com/TapanKumar67/Movie-Shows/assets/148809898/80d18186-26c2-4492-9ed0-e9c4b0ebdd1c)
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-10-24 at 10 45 29](https://github.com/TapanKumar67/Movie-Shows/assets/148809898/5585958f-b340-4f12-93d2-bd40c5a65adb)
