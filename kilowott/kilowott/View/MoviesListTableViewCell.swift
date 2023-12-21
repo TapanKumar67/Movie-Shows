@@ -67,3 +67,5 @@ class MoviesListTableViewCell: UITableViewCell {
         movieBackdrop.contentMode = .scaleAspectFill
     }
 }
+
+// Development
